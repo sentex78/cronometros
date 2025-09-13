@@ -1,1 +1,2 @@
 zip -r "$(date +'%Y_%m_%d_%H%M')_cronometro.zip" *
+git pull origin main --rebase
